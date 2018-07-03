@@ -1,0 +1,7 @@
+[client]
+host = db4free.net
+port = 3306
+database = copa2018ucs
+user = copaucs
+password = fbb465bd
+default-character-set = utf8
